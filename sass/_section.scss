@@ -1,0 +1,11 @@
+.result{
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+    p{
+        padding: 5px;
+        border-bottom: 4px solid $pBorder-color;
+        margin: 5px;
+        font-size: 2rem;
+    }
+}
